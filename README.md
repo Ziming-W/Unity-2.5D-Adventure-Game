@@ -3,6 +3,12 @@
 **The University of Melbourne**
 # COMP30019 – Graphics and Interaction
 
+## Download latest release 
+https://ziming-w.itch.io/kunkuns-bizarre-adventure  
+1. download file
+2. extract .zip
+3. run Project 2.exe
+
 ## Teamwork plan/summary
 
 <!-- [[StartTeamworkPlan]] PLEASE LEAVE THIS LINE UNTOUCHED -->
