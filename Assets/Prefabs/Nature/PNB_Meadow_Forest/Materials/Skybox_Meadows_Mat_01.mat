@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Skybox_Meadows_Mat_01
+  m_Shader: {fileID: 4800000, guid: b79e425cce5c90642a8dd66b6852353e, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Distance: 1173.37
+    - _Falloff: 1
+    - _Offset: 32.29
+    - _UV_Based_Toggle: 0
+    - __dirty: 0
+    m_Colors:
+    - _ColorBottom: {r: 1, g: 0.9475583, b: 0.9009434, a: 0}
+    - _ColorTop: {r: 0.03137255, g: 0.26666668, b: 0.5803922, a: 0}

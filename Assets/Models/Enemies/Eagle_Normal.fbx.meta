@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 221f97476fc29794da96ee45e1fb7f2e
+timeCreated: 1548173063
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Eaglle_normal
+    100004: joint1
+    100006: joint10
+    100008: joint11
+    100010: joint12
+    100012: joint14
+    100014: joint15
+    100016: joint16
+    100018: joint17
+    100020: joint18
+    100022: joint2
+    100024: joint26
+    100026: joint27
+    100028: joint28
+    100030: joint3
+    100032: joint30
+    100034: joint36
+    100036: joint37
+    100038: joint38
+    100040: joint39
+    100042: joint4
+    100044: joint40
+    100046: joint41
+    100048: joint42
+    100050: joint43
+    100052: joint44
+    100054: joint45
+    100056: joint46
+    100058: joint6
+    100060: joint7
+    100062: joint8
+    100064: joint9
+    100066: ROOT
+    100068: Eaglle_Normal
+    400000: //RootNode
+    400002: Eaglle_normal
+    400004: joint1
+    400006: joint10
+    400008: joint11
+    400010: joint12
+    400012: joint14
+    400014: joint15
+    400016: joint16
+    400018: joint17
+    400020: joint18
+    400022: joint2
+    400024: joint26
+    400026: joint27
+    400028: joint28
+    400030: joint3
+    400032: joint30
+    400034: joint36
+    400036: joint37
+    400038: joint38
+    400040: joint39
+    400042: joint4
+    400044: joint40
+    400046: joint41
+    400048: joint42
+    400050: joint43
+    400052: joint44
+    400054: joint45
+    400056: joint46
+    400058: joint6
+    400060: joint7
+    400062: joint8
+    400064: joint9
+    400066: ROOT
+    400068: Eaglle_Normal
+    2100000: 'Material #35'
+    2100002: 'Material #698'
+    4300000: Eaglle_normal
+    4300002: Eaglle_Normal
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Eaglle_normal
+    13700002: Eaglle_Normal
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

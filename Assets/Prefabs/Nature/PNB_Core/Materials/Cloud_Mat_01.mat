@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cloud_Mat_01
+  m_Shader: {fileID: 4800000, guid: 852113d15a525b849b1d469228f450ce, type: 3}
+  m_ShaderKeywords: _EMISSION
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Albedo:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Depth:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PanningNoise:
+        m_Texture: {fileID: 2800000, guid: 796e3706ceb704247adb957915a9edaf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PanningNoise1:
+        m_Texture: {fileID: 2800000, guid: 796e3706ceb704247adb957915a9edaf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tree_NoiseTexture2:
+        m_Texture: {fileID: 2800000, guid: 796e3706ceb704247adb957915a9edaf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TreesMask1:
+        m_Texture: {fileID: 2800000, guid: 64e90820ecd634e4c8a61665e94581ee, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Big_Wave1: 1
+    - _Big_WindAmount1: 1
+    - _Big_Windspeed1: 0.5
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DirectLight: 0.32
+    - _DstBlend: 0
+    - _Float0: 2.26
+    - _Float2: 0.45
+    - _Float3: 0.0823
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _PanningSpeed: 0.015
+    - _PanningSpeed1: 1
+    - _Parallax: 0.02
+    - _SmoothnessTextureChannel: 0
+    - _Specular: 0.876
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _TransAmbient: 0
+    - _TransDirect: 0.38
+    - _TransNormalDistortion: 0.082
+    - _TransScattering: 1
+    - _TransShadow: 0.398
+    - _Translucency: 12
+    - _UVSec: 0
+    - _WindDirection1: 1.24
+    - _WindEffect: 1
+    - _WindNoiseScale: 0.005
+    - _WindNoiseScale1: 0.662
+    - _WindWorldScale: 0.02
+    - _WindWorldScale1: 2.47
+    - _X_Multiplier: 2
+    - _Y_Multi: 0
+    - _Y_Multiplier: 0
+    - _ZWrite: 1
+    - _Z_Multiplier: 0.31
+    - __dirty: 0
+    - _contrast: 18.69
+    - _emissive: 0.25
+    - _emissive1: 0.435
+    - _fresnel: 0.15
+    - _lightDirMulti: 0.36
+    - _lightMax: 1
+    - _lightMin: 0.246
+    - _lightingContrast: 121.99
+    - _maxEmit: 1.301
+    - _minEmit: 0.912
+    - _minEmit1: 0.19
+    - _minEmit_dir: 0.611
+    - _poster: 9.08
+    - _rimLight: 0.75
+    - _rimLight1: 0.5
+    - _stepFloat: 9.56
+    - _stepFloatRim: 1.56
+    m_Colors:
+    - _Color: {r: 0.8773585, g: 0.8773585, b: 0.8773585, a: 1}
+    - _Color0: {r: 0.631, g: 0.80809605, b: 1, a: 0}
+    - _Color3: {r: 0.723, g: 0.80609995, b: 1, a: 0}
+    - _Colour: {r: 0.88699996, g: 0.93207437, b: 1, a: 0}
+    - _Colour1: {r: 0.5, g: 0.5, b: 0.5, a: 0}
+    - _Colour2: {r: 0.681, g: 0.8245501, b: 1, a: 0}
+    - _EmissionColor: {r: 0.092, g: 0.092, b: 0.092, a: 1}
+    - _EmissiveColour: {r: 0.36378607, g: 0.5328233, b: 0.7075472, a: 0}
+    - _GustSmoothing1: {r: 1, g: 1, b: 1, a: 0}
+    - _Tint: {r: 0.5, g: 0.5, b: 0.5, a: 0}
+    - _Translucency: {r: 0.5, g: 0.5, b: 0.5, a: 0}
+    - _emissiveColour: {r: 0.759, g: 0.8125556, b: 1, a: 0}
+    - _emissiveColour1: {r: 0.656535, g: 0.7297195, b: 0.865, a: 0}

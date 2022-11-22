@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6697e1f185bc8b840a2f02567abf15b5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Leaves_NoiseTexture2: {fileID: 2800000, guid: e0595e1df515fa64fa99e3017d4ace24,
+      type: 3}
+  - _GustNoiseMap: {fileID: 2800000, guid: 95228cb87bc1fcf4b8b99b626dcf102c, type: 3}
+  - _LeafNormalMap: {fileID: 2800000, guid: 31a826c4d933ab64f824a0f14646243d, type: 3}
+  - _TrunkNormalMap: {fileID: 2800000, guid: 31a826c4d933ab64f824a0f14646243d, type: 3}
+  - _LeafTex: {fileID: 2800000, guid: 527828786a11abc4db01813fca9043f9, type: 3}
+  - _EmissivePulseMap: {fileID: 2800000, guid: bdbe94d7623ec3940947b62544306f1c, type: 3}
+  - _LOD_DitheringMap: {fileID: 2800000, guid: 16d574e53541bba44a84052fa38778df, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

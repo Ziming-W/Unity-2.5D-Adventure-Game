@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water_Mat_01
+  m_Shader: {fileID: 4800000, guid: 276a39a5a210b124885f0eff3e80f1f3, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DistortionMap:
+        m_Texture: {fileID: 2800000, guid: e4c83886e423af540b2767e694d93e33, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FoamMask:
+        m_Texture: {fileID: 2800000, guid: 77c465e84959d4b40b1d80c93f73a186, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Foam_Texture:
+        m_Texture: {fileID: 2800000, guid: 729fd1c6753e02647915f7e70c13bfd9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RipplesNormal:
+        m_Texture: {fileID: 2800000, guid: 7f44b2ffa3757f14ea549551839fda20, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RipplesNormal2:
+        m_Texture: {fileID: 2800000, guid: a954bf9d99070634181981a97b088b8a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaveMask:
+        m_Texture: {fileID: 2800000, guid: 796e3706ceb704247adb957915a9edaf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _CausticDepthFade: 11.22
+    - _CausticScale: 3
+    - _CausticSpeed: 1
+    - _Depth: 4.27
+    - _Distortion: 0.139
+    - _DistortionSpeed: 0.073
+    - _DistortionTiling: 0.18
+    - _FoamFalloff: -56
+    - _FoamGlowMultiplier: 1
+    - _FoamShoreline: 0.94
+    - _FoamSmoothness: 0
+    - _FoamSpread: 2.53
+    - _GlowDepth: 63.3
+    - _GlowFalloff: 0.108
+    - _NormalScale: 0.264
+    - _NormalTiling: 0.38
+    - _NormalTiling2: 0.1
+    - _Opacity: 0.9
+    - _OpacityFalloff: 9.39
+    - _OpacityMin: 0.32
+    - _OverallFalloff: 0.45
+    - _ReflectionPower: 0.32
+    - _RippleSpeed: 0.1
+    - _ShallowFalloff: 0.4
+    - _Smoothness: 2
+    - _Specular: 0.026
+    - _WaveAmplitude: 0.444
+    - _WaveDirection: 0
+    - _WaveFoamOpacity: 0.069
+    - _WaveNoiseAmount: 2
+    - _WaveNoiseScale: 30
+    - _WaveSpeed: 0.244
+    - _WaveWavelength: -0.04
+    - __dirty: 0
+    m_Colors:
+    - _CausticColour: {r: 0.355, g: 0.355, b: 0.355, a: 0}
+    - _DeepColour: {r: 0.07450981, g: 0.4313726, b: 0.4, a: 0}
+    - _DepthGlowColour: {r: 0, g: 0, b: 0, a: 0}
+    - _FoamColor: {r: 0.5199804, g: 0.8962264, b: 0.8460602, a: 1}
+    - _FoamEmitColour: {r: 0, g: 0, b: 0, a: 0}
+    - _ShallowColour: {r: 0.9529412, g: 0.7882354, b: 0.5882353, a: 0}
+    - _VeryDeepColour: {r: 0.01176471, g: 0.172549, b: 0.2745098, a: 0}
