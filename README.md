@@ -4,7 +4,7 @@
 # COMP30019 – Graphics and Interaction
 
 ## Download latest release 
-Download from the "release" tab in this github repo. 
+Download from the "Releases" section in this github repo. 
 
 ## Teamwork plan/summary
 
